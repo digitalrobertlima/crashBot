@@ -1,0 +1,28 @@
+{
+  "name": "crashbot",
+  "version": "1.0.0",
+  "description": "An application to predict the next moves of the Crash game",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalrobertlima/crashBot.git"
+  },
+  "keywords": [
+    "bot",
+    "blaze",
+    "bet",
+    "crash",
+    "predict",
+    "app",
+    "automation"
+  ],
+  "author": "scr1pt3r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalrobertlima/crashBot/issues"
+  },
+  "homepage": "https://github.com/digitalrobertlima/crashBot#readme"
+}
